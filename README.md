@@ -4,8 +4,10 @@ Angular4 Playground
 Ref:
 https://angular.io/docs/ts/latest/cli-quickstart.html
 
-Steps:
+# Steps:
+
 npm install -g @angular/cli
+
 ng new angular4-playground
 
 
